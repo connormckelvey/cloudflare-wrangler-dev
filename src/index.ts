@@ -1,1 +1,1 @@
-export * from './wranglerDev'
+export * from './wranglerDev.js'
