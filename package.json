@@ -1,9 +1,11 @@
 {
   "name": "cloudflare-wrangler-dev",
-  "version": "0.0.1",
-  "description": "TODO",
+  "version": "1.0.0",
+  "description": "Cloudflare Wranger Dev is a lightweight Javascript/Typescript API for Cloudflare's `wrangler` CLI tool, specifically scoped to the wrangler dev sub-command",
   "keywords": [
-    "TODO"
+    "cloudflare",
+    "wrangler",
+    "test"
   ],
   "type": "module",
   "author": "Connor McKelvey",
