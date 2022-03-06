@@ -22,3 +22,7 @@ async function runTests() {
 
 runTests()
 ```
+
+## Options
+
+See: `WranglerDevOptions` type; values correspond wiht `wrangler dev` optiions and a `spawn` property which get passed to Node.js's `child_process.spown`.
