@@ -1,0 +1,9 @@
+name = "cloudflare-wrangle-dev-test"
+type = "javascript"
+workers_dev = true
+compatibility_date = "2022-02-12"
+
+[build.upload]
+format = "modules"
+dir = "."
+main = "./index.mjs"
